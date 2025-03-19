@@ -26,8 +26,8 @@ Ensure you have the following installed on your system:
 ### Steps to Run the Application Locally
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/aneek20202026/NativeUserApp
+   cd NativeUserApp
    ```
 2. Install dependencies:
    ```sh
