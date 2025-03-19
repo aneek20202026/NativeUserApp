@@ -19,6 +19,9 @@ Ensure you have the following installed on your system:
 - Node.js
 - npm or yarn
 - React Native CLI or Expo CLI (depending on your setup)
+- Android Studio (for Android builds)
+- Android Build Tools 35.0.0
+- NDK version 27.0.12077973
 
 ### Steps to Run the Application Locally
 1. Clone the repository:
